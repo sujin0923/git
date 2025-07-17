@@ -5,3 +5,8 @@ git push <name> <branch> # 내 저장소의 변경 내역(commit)들을 원격�
 branch는 master 혹은 main을 사용
 
 git clone <url> # 저장소를 복제해 온다
+
+git pull <name> <branch> # 원격 저장소에 있는 내용을 가져온다
+git pull origin master
+
+
